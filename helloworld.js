@@ -22,3 +22,7 @@ console.log ("Bicicleta: " + bicicleta.cor)
 bicicleta.cor = "Verde"
 console.log("Carro: " + carro.cor)
 console.log("Bicicleta: " + bicicleta.cor)
+
+//import entrardados from 'readline-sync';
+//let nome = entrardados.question('Informe seu nome: ');
+//console.log(`Olá, ${nome}!`)
