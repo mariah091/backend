@@ -28,12 +28,12 @@ console.log(`O produto ${produtoEmbalado.nome}, da categoria ${produtoEmbalado.c
 
 //3
 class imovel  {
-    constructor(quartos,tipo,endereco){
+    constructor(quartos,tipo,endereco) {
     this.quartos = quartos;
     this.tipo = tipo;
-    thisendereco = endereco  
+    this.endereco = endereco  
     }
-    
 }
 
+//4
 
